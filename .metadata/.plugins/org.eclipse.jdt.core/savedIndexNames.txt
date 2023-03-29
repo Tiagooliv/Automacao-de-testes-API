@@ -1,0 +1,19 @@
+INDEX VERSION 1.132+C:\TesteAPI\Automacao-de-testes-API\.metadata\.plugins\org.eclipse.jdt.core
+1567644795.index
+4218823482.index
+3302738055.index
+57160789.index
+1738337346.index
+1424205456.index
+605940385.index
+29746879.index
+1747302775.index
+3539194513.index
+4269017158.index
+1865797976.index
+235531873.index
+2054628536.index
+1306114881.index
+929198743.index
+1242537208.index
+4253080073.index
