@@ -27,11 +27,16 @@ public class OlaMundoTest {
 <<<<<<< HEAD
 <<<<<<< HEAD
 		validacao.statusCode(200);
+<<<<<<< HEAD
 =======
 		validacao.statusCod0000);
 >>>>>>> Aulas
 =======
 		validacao.statusCode(200);
+>>>>>>> Aulas
+=======
+		
+		/// Teste nova linha
 >>>>>>> Aulas
 
 	}
