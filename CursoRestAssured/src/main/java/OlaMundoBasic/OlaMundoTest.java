@@ -1,4 +1,4 @@
-package ola.mundo;
+package OlaMundoBasic;
 
 import org.junit.Assert;
 import org.junit.Test;
