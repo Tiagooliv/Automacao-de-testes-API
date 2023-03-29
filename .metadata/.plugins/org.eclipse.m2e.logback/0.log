@@ -111,3 +111,5 @@ java.io.FileNotFoundException: C:\TesteAPI\Automacao-de-testes-API\.metadata\.pl
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
 2023-03-29 13:21:16,276 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-03-29 13:21:16,277 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-29 13:21:16,278 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-03-29 13:21:16,279 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
