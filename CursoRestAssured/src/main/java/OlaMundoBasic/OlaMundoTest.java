@@ -25,9 +25,6 @@ public class OlaMundoTest {
 
 		ValidatableResponse validacao = response.then();
 		validacao.statusCode(200);
-		
-		/// Teste nova linha
-		//Nova linha teste
 
 	}
 }
