@@ -25,9 +25,13 @@ public class OlaMundoTest {
 
 		ValidatableResponse validacao = response.then();
 <<<<<<< HEAD
+<<<<<<< HEAD
 		validacao.statusCode(200);
 =======
 		validacao.statusCod0000);
+>>>>>>> Aulas
+=======
+		validacao.statusCode(200);
 >>>>>>> Aulas
 
 	}
