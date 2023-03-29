@@ -24,7 +24,11 @@ public class OlaMundoTest {
 		Assert.assertEquals(200, response.statusCode());
 
 		ValidatableResponse validacao = response.then();
+<<<<<<< HEAD
 		validacao.statusCode(200);
+=======
+		validacao.statusCod0000);
+>>>>>>> Aulas
 
 	}
 }
